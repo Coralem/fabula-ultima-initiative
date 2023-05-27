@@ -1,0 +1,9 @@
+{
+    "fabula-ultima-initiative": {
+        "NAME": "Fabula Ultima Initiative",
+        "Form": {
+            "Title": "Configure initiative"
+        },
+        "ConfigureInitiative": "Configure initiative"
+    }
+}

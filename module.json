@@ -1,0 +1,32 @@
+{
+    "id": "fabula-ultima-initiative",
+	"name": "fabula-ultima-initiative",
+    "title": "Fabula Ultima Initiative",
+    "description": "Adds quick functionality for handling initiative in Fabula Ultima",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Coralem"
+        }
+    ],
+    "esmodules": [
+        "modules/hooks.js"
+    ],
+	"socket": true,
+    "compatibility": {
+        "minimum": "10.270",
+        "verified": "10.291"
+    },	
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "styles": [
+        "styles/fabula-ultima-initiative.css"
+    ],
+	"manifest": "https://raw.githubusercontent.com/Coralem/fabula-ultima-initiative/master/module.json",
+	"download": "https://github.com/Coralem/fabula-ultima-initiative/archive/master.zip"
+}
